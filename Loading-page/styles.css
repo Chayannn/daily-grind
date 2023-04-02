@@ -14,7 +14,7 @@ body {
   margin: 0;
 }
 .bg {
-  background: url('https://images.pexels.com/photos/1006965/pexels-photo-1006965.jpeg?auto=compress&cs=tinysrgb&dpr=1&w=500')
+  background: url('https://images.unsplash.com/photo-1474552226712-ac0f0961a954?ixlib=rb-4.0.3&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=1171&q=80')
     no-repeat center center/cover;
 
     position: absolute;
