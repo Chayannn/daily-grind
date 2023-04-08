@@ -39,7 +39,7 @@ function randomSelect() {
       highlightTag(randomTag)
 
       setTimeout(() => {
-        unHighlightTag(randomTag)
+        unhighlightTag(randomTag)
       }, 100)
     }
   }, 100)
